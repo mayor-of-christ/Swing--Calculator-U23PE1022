@@ -1,5 +1,4 @@
 # Swing--Calculator-U23PE1022
-README
 Calculator using Java Swing
 A simple calculator application implemented in Java Swing with basic arithmetic operations. This calculator supports addition, subtraction, multiplication, and division.
 
@@ -14,6 +13,7 @@ Perform arithmetic operations using the respective buttons.
 Use the decimal point button for decimal numbers.
 Press the "CLEAR" button to reset the input.
 Press the "=" button to display the result of the operation.
+
 Implementation
 The calculator is implemented in Java using Java Swing for the graphical user interface. The Calculator class extends JFrame and implements the ActionListener interface to handle button clicks.
 
