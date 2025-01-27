@@ -1,7 +1,5 @@
 # Swing--Calculator-U23PE1022
-Ajijola Mayowa Wasiu
-Physics Electronics Department 
-
+README
 Calculator using Java Swing
 A simple calculator application implemented in Java Swing with basic arithmetic operations. This calculator supports addition, subtraction, multiplication, and division.
 
@@ -22,6 +20,7 @@ The calculator is implemented in Java using Java Swing for the graphical user in
 Project Structure
 Calculator.java: Contains the main implementation of the calculator.
 README.md: Project documentation.
+
 Output
 Calculator Output Calculator Output
 
