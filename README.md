@@ -1,4 +1,5 @@
 # Swing--Calculator-U23PE1022
+AJIJOLA MAYOWA WASIU, U23PE1022, PHYSICS WITH ELECTRONICS 
 Calculator using Java Swing
 A simple calculator application implemented in Java Swing with basic arithmetic operations. This calculator supports addition, subtraction, multiplication, and division.
 
