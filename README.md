@@ -1,14 +1,14 @@
 # Swing--Calculator-AJIJOLA MAYOWA WASIU, U23PE1022, PHYSICS WITH ELECTRONICS 
 
-Calculator using Java Swing
+#Calculator using Java Swing
 A simple calculator application implemented in Java Swing with basic arithmetic operations. This calculator supports addition, subtraction, multiplication, and division.
 
-Features
+#Features
 User-friendly interface
 Responsive design
 Clear button to reset the input
 Real-time arithmetic calculations
-How to Use
+#How to Use
 Enter the numerical values using the number buttons (0-9).
 Perform arithmetic operations using the respective buttons.
 Use the decimal point button for decimal numbers.
